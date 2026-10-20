@@ -1,5 +1,5 @@
 ID,gender,age,height,weight,smoking,diseases
-participant1,,,,70.9,False,"('Asthma', 'Diabetes')"
+participant1,,,1.75,70.9,False,"('Asthma', 'Diabetes')"
 participant2,male,40.0,1.88,50.0,True,()
 participant3,male,18.0,1.65,73.0,True,"('Lung cancer',)"
 participant4,female,83.0,1.72,87.0,False,"('Cardio vascular disease', 'Alzheimers')"
